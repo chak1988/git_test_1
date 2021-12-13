@@ -10,3 +10,5 @@ def new_function():
 if __name__ == '__main__':
     print('Hello master git')
     get_random(20, 30)
+    print(('Hi'))
+
