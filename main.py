@@ -8,3 +8,5 @@ def new_function():
 
 if __name__ == '__main__':
     print('Hello master git')
+
+    print(('Hi'))
